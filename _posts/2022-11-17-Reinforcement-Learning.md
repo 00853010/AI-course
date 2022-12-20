@@ -416,7 +416,7 @@ you can train on [Kaggle](https://www.kaggle.com/code/rkuo2000/rl-sb3-atari), th
 
 `python3 train_atari.py Pong-v0 1000000`<br>
 `python3 enjoy_atari.py Pong-v0`<br>
-`python3 enjoy_gif.py Pong-v0`<br>
+`python3 enjoy_atari_gif.py Pong-v0`<br>
 
 <table>
 <tr>
