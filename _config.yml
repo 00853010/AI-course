@@ -1,9 +1,9 @@
-title: AI course
-tagline: Deep Learning Lecture
+title: AI project
+tagline: capstone project
 
 author:
-  name: Richard Kuo
-  url: https://www.facebook.com/richard.kuo.168
+  name: Hu Chihi
+  url: https://github.com/00853010
 
 plugins:
   - jekyll-feed
