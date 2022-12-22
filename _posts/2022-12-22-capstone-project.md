@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deep Learning Introduction
-author: [Richard Kuo]
+author: [chih yee]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
