@@ -34,13 +34,32 @@ tags: [jekyll, ai]
   點擊左方創建區塊，即可在圖片中圈選蝦子的範圍。圈選後會彈出視窗，可以選擇該範圍的類別名稱。 <br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210182103-b75e3fd8-2e53-46af-9367-88256ffdf87c.png"></td>
 
+
+### Darknet訓練
+
 * **Darknet介紹** <br>
   Darknet是一個用C和CUDA撰寫的開源深度學習框架，支持CPU和GPU訓練模型，如同Tensorflow、Pytorch，雖然功能並沒有上述兩種多，但是相對的簡單又輕量。 <br>
   [Github連結](https://github.com/AlexeyAB/darknet)
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182205-1c9be2e3-0ba1-4462-8cf0-a1dad8166949.png"></td>
+
+* **Makefile** <br>
+  此檔案為整個Darknet專案的配置，包含GPU、cuDNN、OPENCV等功能的啟用與否。每次調整完，都需要重新編譯專案。請將配置調整如下圖所示。
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182328-73c1eaff-4e76-4fb6-9bd8-594a6e5d73bd.png"></td>
+  
+* **安裝OpenCV函式庫** <br>
+  安裝指令
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182365-90d0002f-3cae-45b9-a0f3-4ae628839f4a.png"></td>
+
+* **Makefile指令** <br>
+  清除指令
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182420-525ab672-f4b6-48f8-9dba-61ca439e7cdf.png"></td>
+  編譯指令
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182421-ba0b4adf-2ec3-4772-8049-72c8e118d122.png"></td>
 
 
 
-<td><img src="5555"></td>
+
+<td><img src="0"></td>
 <p align="center"><img src=" " width="50%" height="50%"></p>
 
 
