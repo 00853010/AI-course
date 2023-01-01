@@ -16,7 +16,7 @@ tags: [jekyll, ai]
 
 * 使用LabelImg
   首先到Github[下載LabelImg專案](https://github.com/tzutalin/labelImg)
-<p align="center"><img src="![image](https://user-images.githubusercontent.com/80897253/210181194-97931f41-5587-4a75-91a8-1b54229c2064.png)" width="50%" height="50%"></p>
+<p align="center"><img src="(https://user-images.githubusercontent.com/80897253/210181194-97931f41-5587-4a75-91a8-1b54229c2064.png)" width="50%" height="50%"></p>
   接著按照README的安裝步驟執行程式
 <p align="center"><img src="![image](https://user-images.githubusercontent.com/80897253/210181243-76979885-9067-46a4-b704-4798db1ade55.png)" width="50%" height="50%"></p>
 
