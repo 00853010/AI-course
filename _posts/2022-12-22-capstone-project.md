@@ -28,7 +28,15 @@ tags: [jekyll, ai]
   /home/pi/Desktop/shrimp_yolo/requirements/shrimp_data/labels
   <td><img src="https://user-images.githubusercontent.com/80897253/210181947-32f4ad26-b921-4b99-bd2e-223776ef958c.png"></td>
   (3)看到已被標籤好的圖片，右邊也顯示蝦子類別。另外左方儲存按鈕下方的按鈕，可以變更儲存格式，因為要訓練YOLO模型，在這裡必須顯示為YOLO。 <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182062-b854b225-ae6b-4d69-b20b-92f4477cafe7.png"></td>
 
+* **LabelImg標籤圖片** <br>
+  點擊左方創建區塊，即可在圖片中圈選蝦子的範圍。圈選後會彈出視窗，可以選擇該範圍的類別名稱。 <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182103-b75e3fd8-2e53-46af-9367-88256ffdf87c.png"></td>
+
+* **Darknet介紹** <br>
+  Darknet是一個用C和CUDA撰寫的開源深度學習框架，支持CPU和GPU訓練模型，如同Tensorflow、Pytorch，雖然功能並沒有上述兩種多，但是相對的簡單又輕量。 <br>
+  [Github連結](https://github.com/AlexeyAB/darknet)
 
 
 
