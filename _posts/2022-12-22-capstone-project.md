@@ -1,18 +1,36 @@
 ---
 layout: post
-title: Deep Learning Introduction
+title: Shrimp YOLO
 author: [chih yee]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
-Deep Learning is a broader family of machine learning methods based on artificial neural networks.
+介紹如何在Darknet框架下，使用YOLO模型辨識蝦子。
 
 ---
-## AI Hardware
+## 操作流程
 
-* Google TPU Cloud
-<p align="center"><img src="https://miro.medium.com/max/588/0*tchhZPBigPBYbWRp.png"></p>
+* 下載蝦子辨識資料
+  [下載蝦子辨識資料](https://drive.google.com/file/d/1C6Tus2PqsEpgVPhhVqb5LIFOMQbv9q8S/view?usp=sharing)，並且放置到桌面、解壓縮
+
+* 使用LabelImg
+  首先到Github[下載LabelImg專案](https://github.com/tzutalin/labelImg)
+<p align="center"><img src="![image](https://user-images.githubusercontent.com/80897253/210181194-97931f41-5587-4a75-91a8-1b54229c2064.png)" width="50%" height="50%"></p>
+  接著按照README的安裝步驟執行程式
+<p align="center"><img src="![image](https://user-images.githubusercontent.com/80897253/210181243-76979885-9067-46a4-b704-4798db1ade55.png)" width="50%" height="50%"></p>
+
+
+
+
+
+
+
+
+
+<p align="center"><img src=" " width="50%" height="50%"></p>
+
+
 
 * GPU Server
 <p align="center"><img src="https://www.leadtek.com/images/news/20190527_1_en.jpg" width="50%" height="50%"></p>
