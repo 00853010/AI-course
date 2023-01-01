@@ -15,9 +15,9 @@ tags: [jekyll, ai]
   [下載蝦子辨識資料](https://drive.google.com/file/d/1C6Tus2PqsEpgVPhhVqb5LIFOMQbv9q8S/view?usp=sharing)，並且放置到桌面、解壓縮
 
 * 使用LabelImg
-  首先到Github[下載LabelImg專案](https://github.com/tzutalin/labelImg)
+  首先到Github[下載LabelImg專案](https://github.com/tzutalin/labelImg)<br>
 <td><img src="https://user-images.githubusercontent.com/80897253/210181194-97931f41-5587-4a75-91a8-1b54229c2064.png"></td>
-  接著按照README的安裝步驟執行程式
+  接著按照README的安裝步驟執行程式<br>
 <td><img src="https://user-images.githubusercontent.com/80897253/210181243-76979885-9067-46a4-b704-4798db1ade55.png"></td>
 
 
