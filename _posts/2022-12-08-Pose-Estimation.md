@@ -1,32 +1,27 @@
 ---
 layout: post
-title: Pose Estimation
-author: [Richard Kuo]
+title: Pose Estimation_test
+author: [Chihi]
 category: [Lecture]
 tags: [jekyll, ai]
 ---
 
 Pose Estimation includes Applications, Body Pose, Head Pose, Hand Pose , Object Pose.
+註解1
 
 ---
 ### Pose Estimation Applications
+小標題1
 * **[健身鏡](https://johnsonfitnesslive.com/?action=mirror_pro_intro)**<br/>
+超連結
 ![](https://johnsonfitnesslive.com/images/mirrorPro-parallax-bg2-img03.gif)
+影片
 
-* **[AI健身教練](https://fc.bnext.com.tw/articles/view/1226)**<br>
-健身新創 Peloton 在這波居家健身浪潮下，以販售主力產品飛輪、跑步機搭配線上課程，並將健身教練打造成「網紅」，用心拍攝運動影片，成功創造粉絲經濟。<br>
-![](https://bnextmedia.s3.hicloud.net.tw/image/album/2021-03/img-1614856341-69773@600.jpg)
-
-* **[馬術治療](https://www.inside.com.tw/article/21711-aigo-interview-aifly)**<br>
-![](https://inside-assets1.inside.com.tw/2020/11/oz0fu9mal72kdptfhnq8v79sf67c57.png?w=730&fit=max&q=80)
-
-* **[Pose-controlled Lights](https://github.com/burningion/dab-and-tpose-controlled-lights)**<br>
-![](https://github.com/burningion/dab-and-tpose-controlled-lights/raw/master/images/dab-tpose.gif?raw=True)
 * **[跌倒偵測](https://www.chinatimes.com/realtimenews/20201203005307-260418?chdtv)**
 <table>
   <tr>
-  <td><img src="https://images.chinatimes.com/newsphoto/2020-12-03/1024/20201203005495.jpg"></td>  
-  <td><img src="https://matching.org.tw/website/uploads_product/website_1/P0000100000044_4_123.jpg"></td>
+  <td><img src="https://images.chinatimes.com/newsphoto/2020-12-03/1024/20201203005495.jpg"></td>圖片1  
+  <td><img src="https://matching.org.tw/website/uploads_product/website_1/P0000100000044_4_123.jpg"></td>圖片2
   </tr>
 </table>
 
