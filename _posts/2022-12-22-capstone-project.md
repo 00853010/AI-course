@@ -22,15 +22,16 @@ tags: [jekyll, ai]
 
 * **LabelImg設定**<br>
   (1)點擊開啟目錄，選擇蝦子圖片資料集的目錄位置<br>
-     /home/pi/Desktop/shrimp_yolo/requirements/shrimp_data/JPEGImages
+  /home/pi/Desktop/shrimp_yolo/requirements/shrimp_data/JPEGImages
   <td><img src="https://user-images.githubusercontent.com/80897253/210181776-c502a840-5cac-409d-9001-0a1d260c6fcb.png"></td>
+  (2)點擊左方改變存放目錄，選擇Annotations資料夾，然後雙擊右下角的檔案<br>
+  /home/pi/Desktop/shrimp_yolo/requirements/shrimp_data/labels
+  <td><img src="https://user-images.githubusercontent.com/80897253/210181947-32f4ad26-b921-4b99-bd2e-223776ef958c.png"></td>
 
 
 
 
-
-
-
+<td><img src="5555"></td>
 <p align="center"><img src=" " width="50%" height="50%"></p>
 
 
