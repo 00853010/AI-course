@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AirDigit Recognition
+title: Air Recognition
 author: [Richard Kuo]
 category: [Lecture]
 tags: [jekyll, ai]
