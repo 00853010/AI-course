@@ -59,6 +59,28 @@ tags: [jekyll, ai]
 
 
 
+
+
+* **project.data** <br>
+  此檔案定義YOLO在訓練、預測時，會使用到的類別數量、列表以及標籤、權重備份資料夾
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182595-645fa0d0-7cab-4473-b4b2-594f6b085911.png"></td>
+  
+* **project.names** <br>
+  此檔案包含YOLO訓練、預測時，會讀取的類別名稱列表。在此只需要辨識蝦子一種類別。
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182599-1d1e7480-12d8-49ba-b042-70d9d6a4bc8f.png"></td>
+  
+* **train.txt** <br>
+  訓練集，此檔案包含80%的圖片位置，YOLO在訓練時會讀取的列表
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182604-9f22d0cd-625d-426d-901a-10071e9fd705.png"></td>
+
+* **test.txt** <br>
+  測試集，此檔案包含20%的圖片位置，YOLO在測試時會讀取的位置列表
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182601-fe19dc04-9697-4227-be34-92c010b51b52.png"></td>
+
+* **val.txt** <br>
+  驗證集，此檔案包含20%的圖片位置，YOLO在驗證時會讀取的位置列表
+  <td><img src="https://user-images.githubusercontent.com/80897253/210182606-f9d87284-99c7-4908-ae02-5a618d6f324e.png"></td>
+
 <td><img src="0"></td>
 <p align="center"><img src=" " width="50%" height="50%"></p>
 
