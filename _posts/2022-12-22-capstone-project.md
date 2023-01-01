@@ -11,22 +11,23 @@ tags: [jekyll, ai]
 ---
 ## 操作流程
 
-* **下載蝦子辨識資料**<br>
+* **下載蝦子辨識資料** <br>
   [下載蝦子辨識資料](https://drive.google.com/file/d/1C6Tus2PqsEpgVPhhVqb5LIFOMQbv9q8S/view?usp=sharing)，並且放置到桌面、解壓縮
 
-* **使用LabelImg**<br>
+* **使用LabelImg** <br>
   (1)首先到Github[下載LabelImg專案](https://github.com/tzutalin/labelImg)
   <td><img src="https://user-images.githubusercontent.com/80897253/210181194-97931f41-5587-4a75-91a8-1b54229c2064.png"></td>
   (2)接著按照README的安裝步驟執行程式<br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210181243-76979885-9067-46a4-b704-4798db1ade55.png"></td>
 
-* **LabelImg設定**<br>
-  (1)點擊開啟目錄，選擇蝦子圖片資料集的目錄位置<br>
+* **LabelImg設定** <br>
+  (1)點擊開啟目錄，選擇蝦子圖片資料集的目錄位置。 <br>
   /home/pi/Desktop/shrimp_yolo/requirements/shrimp_data/JPEGImages
   <td><img src="https://user-images.githubusercontent.com/80897253/210181776-c502a840-5cac-409d-9001-0a1d260c6fcb.png"></td>
-  (2)點擊左方改變存放目錄，選擇Annotations資料夾，然後雙擊右下角的檔案<br>
+  (2)點擊左方改變存放目錄，選擇Annotations資料夾，然後雙擊右下角的檔案。 <br>
   /home/pi/Desktop/shrimp_yolo/requirements/shrimp_data/labels
   <td><img src="https://user-images.githubusercontent.com/80897253/210181947-32f4ad26-b921-4b99-bd2e-223776ef958c.png"></td>
+  (3)看到已被標籤好的圖片，右邊也顯示蝦子類別。另外左方儲存按鈕下方的按鈕，可以變更儲存格式，因為要訓練YOLO模型，在這裡必須顯示為YOLO。 <br>
 
 
 
