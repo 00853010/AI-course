@@ -34,6 +34,7 @@ tags: [jekyll, ai]
   點擊左方創建區塊，即可在圖片中圈選蝦子的範圍。圈選後會彈出視窗，可以選擇該範圍的類別名稱。 <br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210182103-b75e3fd8-2e53-46af-9367-88256ffdf87c.png"></td>
 
+---
 
 ### Darknet訓練
 
@@ -55,11 +56,6 @@ tags: [jekyll, ai]
   <td><img src="https://user-images.githubusercontent.com/80897253/210182420-525ab672-f4b6-48f8-9dba-61ca439e7cdf.png"></td>
   編譯指令
   <td><img src="https://user-images.githubusercontent.com/80897253/210182421-ba0b4adf-2ec3-4772-8049-72c8e118d122.png"></td>
-
-
-
-
-
 
 * **project.data** <br>
   此檔案定義YOLO在訓練、預測時，會使用到的類別數量、列表以及標籤、權重備份資料夾
