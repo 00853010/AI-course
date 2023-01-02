@@ -91,9 +91,9 @@ tags: [jekyll, ai]
 
 ### Darknet測試
 * **安裝OpenCV函式庫** <br>
-  安裝指令
+  安裝指令<br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210196429-e7ec095b-bf78-48a6-b90b-e06b8a2cd153.png"></td>
-  修改Makfile設定
+  修改Makfile設定<br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210196447-83b9aff2-cf5d-4e57-be69-833cd5963099.png"></td>
 
 
