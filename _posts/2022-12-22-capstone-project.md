@@ -11,8 +11,7 @@ tags: [jekyll, ai]
 ### 組員
 * **鄭濬緯** 00853048
 * **胡誌宜** 00853010
-* **張哲維** 
-
+* **張哲維** 00853083 <br>
 
 ---
 
@@ -140,20 +139,12 @@ tags: [jekyll, ai]
 ---
 
 ## 影片展示
-<iframe width="840" height="472" src="https://www.youtube.com/embed/8SJQaGuLIX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="580" height="327" src="https://www.youtube.com/watch?v=8SJQaGuLIX4" title="蝦子辨識" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
-
 ## 工作分配
 * **鄭濬緯** <br>
-  尋找主題、程式撰寫、報告流程製作
-* **張哲維** <br>
-  尋找主題、樹梅派執行
+  
 * **胡誌宜** <br>
-  尋找主題、網頁製作、YOLO模型輔助
-
-
-
-
-
-
+  
+* **張哲維** <br>
