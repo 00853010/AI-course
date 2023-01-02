@@ -37,7 +37,7 @@ tags: [jekyll, ai]
 
 ---
 
-### Darknet訓練
+## Darknet訓練
 
 * **Darknet介紹** <br>
   Darknet是一個用C和CUDA撰寫的開源深度學習框架，支持CPU和GPU訓練模型，如同Tensorflow、Pytorch，雖然功能並沒有上述兩種多，但是相對的簡單又輕量。 <br>
@@ -91,7 +91,7 @@ tags: [jekyll, ai]
 
 ---
 
-### Darknet測試
+## Darknet測試
 * **安裝OpenCV函式庫** <br>
   安裝指令<br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210196429-e7ec095b-bf78-48a6-b90b-e06b8a2cd153.png"></td>
@@ -106,12 +106,12 @@ tags: [jekyll, ai]
 
 ---
 
-### Darknet訓練_模型測試
+## Darknet訓練_模型測試
 * **模型測試 1** <br>
   影像辨識指令 <br>
   ./darknet detector test ../requirements/project.data ../requirements/yolov3-tiny.cfg  ../requirements/yolov3-tiny_final.weights ../shrimp.jpg <br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210196861-fbc0654f-42ed-4c0a-8f64-f2f5e71513c5.png"></td>
-  <td><img src="https://user-images.githubusercontent.com/80897253/210196866-cc4b6e1d-4150-4ab5-bcfe-398517d41126.png"></td>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196866-cc4b6e1d-4150-4ab5-bcfe-398517d41126.png"></td> <br>
   自動生成一個prediction.jpg圖檔 <br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210196871-9d3a9d34-f4d8-48c5-84fa-9cc65249fd72.png"></td>
   
