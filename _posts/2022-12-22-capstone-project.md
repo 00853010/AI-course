@@ -143,9 +143,17 @@ tags: [jekyll, ai]
 <iframe width="580" height="327" src="https://www.youtube.com/watch?v=8SJQaGuLIX4" title="蝦子辨識" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+
 ## 工作分配
 * **鄭濬緯** <br>
-  
-* **胡誌宜** <br>
-  
+  尋找主題、程式撰寫、報告流程製作
 * **張哲維** <br>
+  程式撰寫、開發板執行
+* **胡誌宜** <br>
+  網頁製作
+
+
+
+
+
+
