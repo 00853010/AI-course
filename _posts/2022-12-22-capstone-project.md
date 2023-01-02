@@ -105,10 +105,36 @@ tags: [jekyll, ai]
 
 ### Darknet訓練_模型測試
 * **模型測試 1** <br>
+  影像辨識指令 <br>
+  ./darknet detector test ../requirements/project.data ../requirements/yolov3-tiny.cfg  ../requirements/yolov3-tiny_final.weights ../shrimp.jpg <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196861-fbc0654f-42ed-4c0a-8f64-f2f5e71513c5.png"></td>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196866-cc4b6e1d-4150-4ab5-bcfe-398517d41126.png"></td>
+  自動生成一個prediction.jpg圖檔 <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196871-9d3a9d34-f4d8-48c5-84fa-9cc65249fd72.png"></td>
+  
 * **模型測試 2** <br>
+  影片辨識指令 <br>
+  ./darknet detector demo ../requirements/project.data ../requirements/yolov3-tiny.cfg  ../requirements/yolov3-tiny_final.weights ../shrimp.avi <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196945-02dc1b56-669c-424b-b27c-15097a0bfb93.png"></td>
+  
 * **影片辨識成果** <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196962-84b7233b-b31f-48a3-bdd1-6c01fe7b5079.png"></td>
+
 * **模型測試 3** <br>
+  Webcam辨識指令 <br>
+  ./darknet detector demo ../requirements/project.data ../requirements/yolov3-tiny.cfg  ../requirements/yolov3-tiny_final.weights <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210197003-9e982b41-f81f-47fb-8228-df3e44a27707.png"></td>
+
 * **使用攝像頭對準影片上的魚蝦** <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210197027-5266a323-7a3b-4d93-9d6a-d615d729a6a4.png"></td>
+
+
+
+
+
+
+
+
 
 
 <td><img src=""></td>
