@@ -134,7 +134,15 @@ tags: [jekyll, ai]
 ---
 
 ## 影片展示
+<iframe width="580" height="327" src="https://www.youtube.com/watch?v=8SJQaGuLIX4" title="蝦子辨識" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+## 工作分配
+* **鄭濬緯** <br>
+  
+* **胡誌宜** <br>
+  
+* **張哲維** <br>
 
 
 
@@ -321,8 +329,8 @@ It has up to eight streaming multiprocessors (SMs) composed of 1024 CUDA cores a
   - Max 23 GPIO
 <iframe width="580" height="327" src="https://www.youtube.com/embed/_Kzqh6JXndo" title="AIoT: AmebaPro2 vs ESP32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="580" height="327" src="https://www.youtube.com/embed/_Kzqh6JXndo" title="AIoT: AmebaPro2 vs ESP32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-https://www.youtube.com/watch?v=8SJQaGuLIX4
+<iframe width="580" height="327" src="https://www.youtube.com/watch?v=8SJQaGuLIX4" title="蝦子辨識" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ---
 ## [mlplatform.org](https://www.mlplatform.org/)
