@@ -80,13 +80,30 @@ tags: [jekyll, ai]
 * **yolov3-tiny.cfg** <br>
   可以調整yolov3-tiny模型參數的相關設定，測試時batch,subdivisions必須設為1，而在訓練時，不得皆設為1。另外根據偵測類別的數量不同filters參數也必須更改filters = (classes+5)*3
   <td><img src="https://user-images.githubusercontent.com/80897253/210196184-5ad09e87-4a85-46aa-a90f-42abac73a9fb.png"></td>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196241-4db3fc79-1b10-431d-8355-35f13333e779.png"></td>
+
+* **Yolov3-tiny模型訓練** <br>
+  訓練指令 ./darknet detector train ../requirements/project.data ../requirements/yolov3-tiny.cfg  ./darknet53.conv.74 
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196311-1041dd80-cadf-46ae-b47b-50eca32a767f.png"></td>
+  過程會顯示訓練過程的日誌紀錄，且每100次訓練會備份一次模型權重。
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196343-398cff7e-4f1a-41d6-85e8-b55f293ca2fb.png"></td>
+
+
+### Darknet測試
+* **安裝OpenCV函式庫** <br>
+  安裝指令
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196429-e7ec095b-bf78-48a6-b90b-e06b8a2cd153.png"></td>
+  修改Makfile設定
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196447-83b9aff2-cf5d-4e57-be69-833cd5963099.png"></td>
 
 
 
-![image](https://user-images.githubusercontent.com/80897253/210196184-5ad09e87-4a85-46aa-a90f-42abac73a9fb.png)
 
 
-<td><img src="0"></td>
+
+
+
+<td><img src=""></td>
 <p align="center"><img src=" " width="50%" height="50%"></p>
 
 
