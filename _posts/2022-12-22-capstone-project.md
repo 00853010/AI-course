@@ -77,6 +77,15 @@ tags: [jekyll, ai]
   驗證集，此檔案包含20%的圖片位置，YOLO在驗證時會讀取的位置列表
   <td><img src="https://user-images.githubusercontent.com/80897253/210182606-f9d87284-99c7-4908-ae02-5a618d6f324e.png"></td>
 
+* **yolov3-tiny.cfg** <br>
+  可以調整yolov3-tiny模型參數的相關設定，測試時batch,subdivisions必須設為1，而在訓練時，不得皆設為1。另外根據偵測類別的數量不同filters參數也必須更改filters = (classes+5)*3
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196184-5ad09e87-4a85-46aa-a90f-42abac73a9fb.png"></td>
+
+
+
+![image](https://user-images.githubusercontent.com/80897253/210196184-5ad09e87-4a85-46aa-a90f-42abac73a9fb.png)
+
+
 <td><img src="0"></td>
 <p align="center"><img src=" " width="50%" height="50%"></p>
 
