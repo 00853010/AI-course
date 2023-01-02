@@ -131,7 +131,9 @@ tags: [jekyll, ai]
 * **使用攝像頭對準影片上的魚蝦** <br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210197027-5266a323-7a3b-4d93-9d6a-d615d729a6a4.png"></td>
 
+---
 
+## 影片展示
 
 
 
@@ -318,6 +320,9 @@ It has up to eight streaming multiprocessors (SMs) composed of 1024 CUDA cores a
   - 2 GDMA interfaces
   - Max 23 GPIO
 <iframe width="580" height="327" src="https://www.youtube.com/embed/_Kzqh6JXndo" title="AIoT: AmebaPro2 vs ESP32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="580" height="327" src="https://www.youtube.com/embed/_Kzqh6JXndo" title="AIoT: AmebaPro2 vs ESP32" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=8SJQaGuLIX4
 
 ---
 ## [mlplatform.org](https://www.mlplatform.org/)
