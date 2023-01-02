@@ -9,6 +9,7 @@ tags: [jekyll, ai]
 介紹如何在Darknet框架下，使用YOLO模型辨識蝦子。
 
 ---
+
 ## 操作流程
 
 * **下載蝦子辨識資料** <br>
@@ -88,6 +89,7 @@ tags: [jekyll, ai]
   過程會顯示訓練過程的日誌紀錄，且每100次訓練會備份一次模型權重。
   <td><img src="https://user-images.githubusercontent.com/80897253/210196343-398cff7e-4f1a-41d6-85e8-b55f293ca2fb.png"></td>
 
+---
 
 ### Darknet測試
 * **安裝OpenCV函式庫** <br>
@@ -102,6 +104,7 @@ tags: [jekyll, ai]
   編譯指令 <br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210196567-8edc8af0-1382-4d91-91e9-eefa8aa269de.png"></td>
 
+---
 
 ### Darknet訓練_模型測試
 * **模型測試 1** <br>
