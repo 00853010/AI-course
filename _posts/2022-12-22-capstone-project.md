@@ -140,7 +140,7 @@ tags: [jekyll, ai]
 ---
 
 ## 影片展示
-<iframe width="580" height="327" src="https://www.youtube.com/watch?v=8SJQaGuLIX4" title="蝦子辨識" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/8SJQaGuLIX4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
