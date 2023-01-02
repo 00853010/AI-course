@@ -96,11 +96,19 @@ tags: [jekyll, ai]
   修改Makfile設定<br>
   <td><img src="https://user-images.githubusercontent.com/80897253/210196447-83b9aff2-cf5d-4e57-be69-833cd5963099.png"></td>
 
+* **Makefile指令** <br>
+  清除指令 <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196564-a5783960-86d1-46db-aa30-915fc7648841.png"></td>
+  編譯指令 <br>
+  <td><img src="https://user-images.githubusercontent.com/80897253/210196567-8edc8af0-1382-4d91-91e9-eefa8aa269de.png"></td>
 
 
-
-
-
+### Darknet訓練_模型測試
+* **模型測試 1** <br>
+* **模型測試 2** <br>
+* **影片辨識成果** <br>
+* **模型測試 3** <br>
+* **使用攝像頭對準影片上的魚蝦** <br>
 
 
 <td><img src=""></td>
